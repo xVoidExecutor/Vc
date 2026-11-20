@@ -1,0 +1,8 @@
+{
+  "name": "vCamera Architecture & UI Prototype",
+  "description": "System architecture guide and UI prototype for a virtual camera application.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
